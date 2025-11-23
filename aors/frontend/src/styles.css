@@ -1,0 +1,11 @@
+body{ font-family: Arial, sans-serif; margin:20px; }
+.container{ max-width:1000px; margin:0 auto; }
+nav{ margin-bottom:20px; }
+button{ padding:8px 12px; margin:4px; cursor:pointer; }
+table{ width:100%; border-collapse: collapse; }
+th, td{ padding:8px; border:1px solid #ddd; text-align:left; }
+input, select{ padding:8px; margin:6px 6px 6px 0; }
+.header { display:flex; justify-content:space-between; align-items:center; }
+.roleBadge { font-size:12px; padding:6px 10px; border-radius:6px; background:#eee; margin-right:8px; }
+a { color: #0077cc; text-decoration:none; }
+a:hover { text-decoration:underline; }
